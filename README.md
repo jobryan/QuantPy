@@ -17,7 +17,7 @@ Some current capabilities:
 Documentation:
 --------------
 
-The main documentation can be read at [Read The Docs](https://quantpy.readthedocs.org/en/latest/).  Please start their for more information.
+The main documentation can be read at [Read The Docs](https://quantpy.readthedocs.org/en/latest/).  Please start there for more information.
 
 Contributions Welcome.
 ----------------------
